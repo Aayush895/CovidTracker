@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,500;1,400&display=swap');
+.dropdown-header {
+    font-family: "Jost",sans-serif;
+    font-size: 3rem;
+    text-shadow: 5px 10px 10px rgba(0,0,0,0.56);
+    /* font-weight: bolder; */
+    font-family: 'Roboto Mono', monospace;
+}
+
+.drop-down {
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid;
+    box-shadow: 7px 13px 70px -18px rgba(0,0,0,0.94);
+}
